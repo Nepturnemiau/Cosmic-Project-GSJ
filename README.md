@@ -1,6 +1,10 @@
 # Cosmic-Project-GSJ
 Projeto Final
 
+Idéia do Projeto:
+
+O projeto intitulado como Cosmic tem como principal objetivo instruir o usuário de forma intuitiva e instigante a aspectos ainda pouco disseminados pela sociedade em geral instencionada a astronomia e astrologia. Com uma interface simples e rápida o usuário pode navegar entre o conjunto de views com praticidade e rapidez para buscar conceitos referentes ao assunto!
+
 README/COSMIC----------------------------------------------------------------------------------------------------------
 
 A aplicação Cosmic tem como principal objetivo de forma objetiva tratar de assuntos relacionados a astronomia com 
