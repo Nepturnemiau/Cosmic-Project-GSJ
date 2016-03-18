@@ -6,18 +6,21 @@ Projeto Final
 README/COSMIC----------------------------------------------------------------------------------------------------------
 Idéia do Projeto:
 
-O projeto intitulado como Cosmic tem como principal objetivo instruir o usuário de forma intuitiva e instigante a aspectos ainda pouco disseminados pela sociedade em geral instencionada a astronomia e astrologia. Com uma interface simples e rápida o usuário pode navegar entre o conjunto de views com praticidade e rapidez para buscar conceitos referentes ao assunto!
+O projeto intitulado como Cosmic tem como principal objetivo instruir o usuário de forma intuitiva e instigante a aspectos ainda pouco disseminados pela sociedade em geral ,conceitos esses relacionados a astronomia e astrologia. Com uma interface simples e rápida o usuário pode navegar entre o conjunto de views com praticidade e rapidez para buscar conceitos referentes ao assunto! Com subtópicos interessantes e imagens ilustrativas tratando relatos e observações do meio inter-galáctico.
 
 README/COSMIC----------------------------------------------------------------------------------------------------------
 
 
 README/COSMIC----------------------------------------------------------------------------------------------------------
 
-A aplicação Cosmic tem como principal objetivo de forma objetiva tratar de assuntos relacionados a astronomia com 
-subtópicos interessantes e imagens ilustrativas tratando relatos e observações do meio inter-galáctico. 
-Em sua página principal o button Start-Adventure inicia a aplicação para a página de seleção de tópicos onde de forma
-rápida e intuitiva o usuário com seus interesses acessa a um desses tópicos abordando os mais diversos assuntos relacionados
-a astronomia.
+Exp..Cont:
 
+1 - Ao entrar na aplicação - Digite seu nome;
+
+2 - Aperte no button Start Adventure;
+
+3 - A página de seleção vai ser apresentada escolha sua opção e navegue pelo conteúdo e as imagens apresentadas.
+
+4 - Para voltar um botão está no canto esquerdo superior.
 
 README/COSMIC-----------------------------------------------------------------------------------------------------------
